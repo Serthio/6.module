@@ -1,0 +1,3 @@
+C:/Users/ejkov/OneDrive/Документы/GitHub/6.module/build/CMakeFiles/matrix_class.dir
+C:/Users/ejkov/OneDrive/Документы/GitHub/6.module/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ejkov/OneDrive/Документы/GitHub/6.module/build/CMakeFiles/ZERO_CHECK.dir
